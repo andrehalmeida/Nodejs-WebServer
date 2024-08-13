@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\server-node\\Nodejs-WebServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF6B5D8-3782-48E1-BD79-64F22A5D09C1}|Nodejs-WebServer\\Nodejs-WebServer.njsproj|D:\\server-node\\Nodejs-WebServer\\Nodejs-WebServer\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4EF6B5D8-3782-48E1-BD79-64F22A5D09C1}|Nodejs-WebServer\\Nodejs-WebServer.njsproj|solutionrelative:Nodejs-WebServer\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.js",
+              "DocumentMoniker": "D:\\server-node\\Nodejs-WebServer\\Nodejs-WebServer\\server.js",
+              "RelativeDocumentMoniker": "Nodejs-WebServer\\server.js",
+              "ToolTip": "D:\\server-node\\Nodejs-WebServer\\Nodejs-WebServer\\server.js",
+              "RelativeToolTip": "Nodejs-WebServer\\server.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-13T20:45:46.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
